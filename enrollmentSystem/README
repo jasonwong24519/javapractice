@@ -1,0 +1,10 @@
+project: enrollment system
+This project creates a system for the admin to help students to enroll or cancel enrollment.
+
+The system can rewrite students' names and gender, enroll and cancel enrollment, and inquiry information about students and courses.  
+
+The purpose of the practice is to understand how to manipulate JSON files, e.g., read and write.
+
+Conclusion:
+The program will read all data at the beginning. It will waste time and memory if the student data is not the target to change. 
+So, it would be good to save student data separately and read it only if the users ask.
